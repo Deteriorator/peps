@@ -489,8 +489,8 @@ pep-0631.rst  @pganssle
 pep-0632.rst  @zooba
 pep-0633.rst  @brettcannon
 pep-0634.rst  @brandtbucher @gvanrossum
-pep-0635.rst  @gvanrossum
-pep-0636.rst  @gvanrossum
+pep-0635.rst  @brandtbucher @gvanrossum
+pep-0636.rst  @brandtbucher @gvanrossum
 pep-0637.rst  @stevendaprano
 pep-0638.rst  @markshannon
 pep-0639.rst  @pfmoore
@@ -511,6 +511,13 @@ pep-0653.rst  @markshannon
 pep-0654.rst  @1st1 @gvanrossum
 pep-0655.rst  @gvanrossum
 pep-0656.rst  @brettcannon
+pep-0657.rst  @pablogsal @isidentical @ammaraskar
+pep-0658.rst  @brettcannon
+pep-0659.rst  @markshannon
+pep-0660.rst  @pfmoore
+pep-0661.rst  @taleinat
+pep-0662.rst  @brettcannon
+pep-0662/pep-0662-editables.json  @brettcannon
 # ...
 # pep-0666.txt
 # ...
